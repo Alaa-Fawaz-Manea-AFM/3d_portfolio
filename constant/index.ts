@@ -90,7 +90,7 @@ const projects = [
     ],
     image: Home_social_Media,
     source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/social_media_app",
-    source_web_link: "https://social-media-app-five-pied.vercel.app/",
+    source_web_link: "https://social-media-app-nine-self.vercel.app/",
   },
   {
     name: "E-Commerce",
@@ -210,7 +210,7 @@ const projects = [
     ],
     image: projectHoobank_img,
     source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/projectHoobank",
-    source_web_link: "https://project-hoobank-sable-olive.vercel.app/",
+    source_web_link: "https://project-hoobank-beta.vercel.app/",
   },
 ];
 
