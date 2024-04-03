@@ -1,0 +1,32 @@
+export { default as web } from "./web.png";
+export { default as logo } from "./logo.svg";
+export { default as menu } from "./menu.svg";
+export { default as call } from "./call.svg";
+export { default as close } from "./close.svg";
+export { default as Nike_img } from "./Nike.png";
+export { default as mobile } from "./mobile.png";
+export { default as y_tube } from "./y-tube.svg";
+export { default as herobg } from "./herobg.png";
+export { default as Netflix } from "./NETFLIX.svg";
+export { default as favicon } from "./favicon.ico";
+export { default as A_F_M_1 } from "./A_F_M_1.png";
+export { default as creator } from "./creator.png";
+export { default as Loader_Icon } from "./loader.svg";
+export { default as Link_ico } from "./link.svg";
+
+export { default as Home_y_tube } from "./Home_y_tube.png";
+export { default as Home_Netflix } from "./Home_Netflix.png";
+export { default as Home_e_commerce } from "./Home_e_commerce.png";
+export { default as Home_social_Media } from "./Home_social_Media.png";
+export { default as projectHoobank_img } from "./projectHoobank_img.png";
+
+export { default as css } from "./tech/css.svg";
+export { default as git } from "./tech/git.svg";
+export { default as html } from "./tech/html.svg";
+export { default as redux } from "./tech/redux.svg";
+export { default as Nextjs } from "./tech/Nextjs.svg";
+export { default as github } from "./tech/github.svg";
+export { default as reactjs } from "./tech/reactjs.svg";
+export { default as tailwind } from "./tech/tailwind.svg";
+export { default as javascript } from "./tech/javascript.svg";
+export { default as TypeScript } from "./tech/Typescript.svg";
