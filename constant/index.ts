@@ -12,7 +12,6 @@ import {
   Nike_img,
   javascript,
   TypeScript,
-  Home_y_tube,
   Home_Netflix,
   Home_e_commerce,
   Home_social_Media,
@@ -89,7 +88,7 @@ const projects = [
       },
     ],
     image: Home_social_Media,
-    source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/social_media_app",
+    source_github_link: "https://social-media-app-iota-ebon.vercel.app/",
     source_web_link: "https://social-media-app-nine-self.vercel.app/",
   },
   {
@@ -115,31 +114,10 @@ const projects = [
       },
     ],
     image: Home_e_commerce,
-    source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/e-commerce",
+    source_github_link: "https://e-commerce-umber-omega.vercel.app/",
     source_web_link: "https://e-commerce-ruddy-ten.vercel.app/",
   },
-  {
-    name: "y-tube",
-    description:
-      "provided website is a clone of the popular streaming platform Netflix. It replicates the user interface and features of Netflix, allowing users to browse and watch a wide range of movies and TV shows online. With a similar layout and design, users can enjoy a familiar streaming experience on this clone site",
-    tags: [
-      {
-        name: "Next",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "TypeScript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwindCss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: Home_y_tube,
-    source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/y-tube",
-    source_web_link: "https://y-tube-lac.vercel.app/",
-  },
+
   {
     name: "Net_Flix",
     description:
@@ -163,10 +141,9 @@ const projects = [
       },
     ],
     image: Home_Netflix,
-    source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/Net-Flix",
+    source_github_link: "https://net-flix-three.vercel.app/",
     source_web_link: "https://net-flix-umber.vercel.app/",
   },
-
 
   {
     name: "Nike",
@@ -187,7 +164,7 @@ const projects = [
       },
     ],
     image: Nike_img,
-    source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/Nike-clone",
+    source_github_link: "https://nike-clone-ruddy.vercel.app/",
     source_web_link: "https://nike-app-eight.vercel.app/",
   },
   {
@@ -209,7 +186,7 @@ const projects = [
       },
     ],
     image: projectHoobank_img,
-    source_github_link: "https://github.com/Alaa-Fawaz-Manea-AFM/projectHoobank",
+    source_github_link: "https://project-hoobank-gamma.vercel.app/",
     source_web_link: "https://project-hoobank-beta.vercel.app/",
   },
 ];
