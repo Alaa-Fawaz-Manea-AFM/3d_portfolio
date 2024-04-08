@@ -14,7 +14,6 @@ export { default as creator } from "./creator.png";
 export { default as Loader_Icon } from "./loader.svg";
 export { default as Link_ico } from "./link.svg";
 
-export { default as Home_y_tube } from "./Home_y_tube.png";
 export { default as Home_Netflix } from "./Home_Netflix.png";
 export { default as Home_e_commerce } from "./Home_e_commerce.png";
 export { default as Home_social_Media } from "./Home_social_Media.png";
