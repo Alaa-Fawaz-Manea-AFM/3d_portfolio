@@ -253,7 +253,7 @@ const Hero = () => (
                   alt="call"
                   width={18}
                   height={18}
-                  className="group-hover:scale-110 transition-transform invert"
+                  className="group-hover:scale-110 transition-transform"
                 />
                 <span className="font-mono text-[14px] sm:text-[15px]">
                   +20 11 4978 9559
