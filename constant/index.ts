@@ -45,25 +45,6 @@ export const navLinks = [
   },
 ];
 
-// const services = [
-//   {
-//     title: "Web Developer",
-//     icon: web,
-//   },
-//   {
-//     title: "React Developer",
-//     icon: mobile,
-//   },
-//   {
-//     title: "Content Creator",
-//     icon: creator,
-//   },
-//   {
-//     title: "Next Developer",
-//     icon: mobile,
-//   },
-// ];
-
 const services = [
   {
     title: "Full Stack Development",
@@ -178,7 +159,7 @@ const projects = [
     ],
     image: Home_social_Media,
     source_github_link:
-      "https://github.com/Alaa-Fawaz-Manea-AFM/social-media-back-end-nestjs-prisma-postgress",
+      "https://github.com/Alaa-Fawaz-Manea-AFM/social-media-Full-Stack",
     source_web_link: "https://social-media-app-iota-ebon.vercel.app/",
   },
   {
@@ -207,7 +188,7 @@ const projects = [
     ],
     image: Home_e_commerce,
     source_github_link:
-      "https://github.com/Alaa-Fawaz-Manea-AFM/e-commerce-back-end-nestjs-prisma-postgress/settings",
+      "https://github.com/Alaa-Fawaz-Manea-AFM/e-commerce-Full-Stack",
     source_web_link: "https://e-commerce-umber-omega.vercel.app/",
   },
   {
@@ -236,7 +217,7 @@ const projects = [
     ],
     image: Home_Netflix,
     source_github_link:
-      "https://github.com/Alaa-Fawaz-Manea-AFM/Net-Flix-Clone-back-end-nestjs-prisma-postgress",
+      "https://github.com/Alaa-Fawaz-Manea-AFM/social-media-Full-Stack",
     source_web_link: "https://net-flix-three.vercel.app/",
   },
   {
